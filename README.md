@@ -1,6 +1,5 @@
 ## Hi there 👋
-Im Sebastian, Im working on learning to use GitHub and I'm excited!
-u+1f601
+Im Sebastian, Im working on learning to use GitHub and I'm excited! 😁
 <!--
 **slucero4081/slucero4081** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
